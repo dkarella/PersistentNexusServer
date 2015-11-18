@@ -1,0 +1,15 @@
+{
+  "name": "PersistentNexusServer",
+  "version": "1.0.0",
+  "description": "Use grunt / docker to create a Nexus server that is both easy to install and migrate.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel K. Arellano",
+  "license": "license.txt",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-exec": "^0.4.6"
+  }
+}
